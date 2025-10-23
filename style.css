@@ -336,12 +336,12 @@ nav .fa-solid{
         background: #1C2841;
         position: fixed;
         top: 0;
-        right:-150px;
+        right:-200px;
         width: 200px;
-        height: 100vh;
+        height: 50vh;
         padding-top:50px;
         z-index: 2;
-        transition: right 0.5s;
+        transition: right 0.4s;
     }
     nav ul li{
         display: block;
@@ -359,6 +359,7 @@ nav .fa-solid{
 
 
 }
+
 
 
 
