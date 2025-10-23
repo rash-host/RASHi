@@ -9,7 +9,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: #302a30;
+    background: #211040;
     color: #fff;
     scroll-behavior: smooth;
 }
@@ -291,7 +291,7 @@ nav ul li a:hover::after{
 }
 .btn.btn2{
     display: inline-block;
-    background: #ff004f;
+    background: #27272B;
     border-radius: 10px;
     color: #fff;
 }
@@ -356,5 +356,6 @@ nav .fa-solid{
     .contact-left, .contact-right{
         flex-basis: 100%;
     }
+
 
 }
