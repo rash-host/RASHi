@@ -336,7 +336,7 @@ nav .fa-solid{
         background: #1C2841;
         position: fixed;
         top: 0;
-        right:-250px;
+        right:-150px;
         width: 200px;
         height: 100vh;
         padding-top:50px;
@@ -359,5 +359,6 @@ nav .fa-solid{
 
 
 }
+
 
 
