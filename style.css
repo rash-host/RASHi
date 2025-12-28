@@ -306,7 +306,7 @@ nav ul li a:hover::after{
     width:100%;
 }
 form input, form textarea{
-    width: 100%;
+    width: 80%;
     border: 0;
     outline: none;
     background: #F7B980;
@@ -360,6 +360,7 @@ nav .fa-solid{
 
 
 }
+
 
 
 
