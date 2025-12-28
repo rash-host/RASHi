@@ -291,7 +291,7 @@ nav ul li a:hover::after{
 }
 .btn.btn2{
     display: inline-block;
-    background: #27272B;
+    background: #F7B980;
     border-radius: 10px;
     color: #fff;
 }
@@ -360,6 +360,7 @@ nav .fa-solid{
 
 
 }
+
 
 
 
